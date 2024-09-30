@@ -63,6 +63,7 @@ namespace GroceryShopApp
             }
 
             Console.ReadLine();
+            // if ile yapmak daha kolay şartı verirken daha anlaşılır bence
         }
     }
 }
